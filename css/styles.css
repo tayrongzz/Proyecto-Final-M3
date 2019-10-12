@@ -99,7 +99,7 @@ p {
  padding-top: 808px;
 }
 #bw {
- background: url('/imagenes/mascotas.png') no-repeat center center/cover;
+ background: url('./imagenes/mascotas.png') no-repeat center center/cover;
  height: 850px;
 }
 
